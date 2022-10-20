@@ -24,6 +24,7 @@ function myFunction(param) {
 }
 ```
 
+
 As a quick recap of the syntax here:
 
 - The **`function` keyword** identifies this code as a function.
